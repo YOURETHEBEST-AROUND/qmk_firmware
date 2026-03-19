@@ -29,3 +29,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define POINTING_DEVICE_ROTATION_180
 #define OLED_FONT_H "keyboards/aki27/trackball_module/lib/glcdfont.c"
+#define COCOT_ROTATION_DEFAULT 2
