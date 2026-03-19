@@ -27,5 +27,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ADNS5050_SDIO_PIN         F6
 #define ADNS5050_CS_PIN           B1
 
-#define POINTING_DEVICE_ROTATION_180
+#define POINTING_DEVICE_ROTATION_90
 #define OLED_FONT_H "keyboards/aki27/trackball_module/lib/glcdfont.c"
